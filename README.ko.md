@@ -4,7 +4,7 @@
   <h3 align="center">Craft EMR with CDK v2</h3>
 
   <p align="center">
-    Crafting Amazon EMR with case study and best practices via runable runnable project.
+    AWS 에서 EMR 을 구축할 때 고려해야 할 사항들을 실용적인 사례와 실행 가능한 데모를 통해서 알아봅니다.
     <br />
     <a href="https://craftaws.github.io/craft-emr/"><strong>Explore the docs »</strong></a>
     <br />
@@ -16,4 +16,4 @@
 
 ### CDK Python project
 
-This is a project for Python development with CDK.
+이 프로젝트는 Python development with CDK 로 작성 되었습니다.
